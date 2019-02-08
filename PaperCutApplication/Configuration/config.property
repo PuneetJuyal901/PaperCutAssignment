@@ -1,0 +1,11 @@
+Url= http://localhost:9191/admin
+
+UserName= admin
+
+Password= 123456
+
+BrowserName= firefox
+
+DashBoaePageTitle= PaperCut NG : Dashboard : Dashboard
+
+dashBoardPageHeader= Dashboard

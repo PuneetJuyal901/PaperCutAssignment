@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21616" started-at="2019-02-07T20:09:24Z" finished-at="2019-02-07T20:09:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21616" started-at="2019-02-07T20:09:24Z" finished-at="2019-02-07T20:09:46Z">
+      <class name="com.test.papercut.testCases.TC001_VerifyLoginAndDasboardLinks">
+        <test-method status="PASS" signature="browserIntialization()[pri:0, instance:com.test.papercut.testCases.TC001_VerifyLoginAndDasboardLinks@4b53f538]" name="browserIntialization" is-config="true" duration-ms="11033" started-at="2019-02-07T20:09:24Z" finished-at="2019-02-07T20:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialization -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.test.papercut.testCases.TC001_VerifyLoginAndDasboardLinks@4b53f538]" name="verifyLogin" duration-ms="7919" started-at="2019-02-07T20:09:35Z" finished-at="2019-02-07T20:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="verifyDashBoardMenuLinks()[pri:1, instance:com.test.papercut.testCases.TC001_VerifyLoginAndDasboardLinks@4b53f538]" name="verifyDashBoardMenuLinks" duration-ms="2640" started-at="2019-02-07T20:09:43Z" finished-at="2019-02-07T20:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashBoardMenuLinks -->
+      </class> <!-- com.test.papercut.testCases.TC001_VerifyLoginAndDasboardLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
